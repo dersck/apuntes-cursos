@@ -21,12 +21,13 @@ apuntes-cursos/
   curso-nombre/
     README.md
     apuntes/
+```
 
-
+---
 ## 📘 Cursos
 
 ### ✅ Curso – Inglés A1
-📂 `apuntes-cursos/curso-inglés-a1-presente-siemple/`
+📂 `apuntes-cursos/curso-inglés-a1-presente-simple/`
 
 - **Estado:** 🟡 En progreso
 - **Inicio:** 2026-02
