@@ -1,7 +1,5 @@
 # Comandos Básicos y Flujo de Trabajo
 
-Comandos para poder inicializar proyectos, solicitar ayuda sobre comandos y establecer parámetros iniciales para identificación
-
 ## Ver el status actual de los archivos del repositorio
 ```bash
 git status
