@@ -1,6 +1,6 @@
 # Configuración y Comandos Básicos
 
-Comandos para poder inicializar proyectos, solicitar ayuda sobre comandos y establecer
+Comandos para poder inicializar proyectos, solicitar ayuda sobre comandos y establecer parámetros iniciales para identificación
 
 ## Verificar instalación y versión de Git
 
