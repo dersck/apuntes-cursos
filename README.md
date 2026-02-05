@@ -26,6 +26,12 @@ apuntes-cursos/
 ---
 ## 📘 Cursos
 
+### ✅ Curso – Git y GitHub
+📂 `apuntes-cursos/curso-git-y-github/`
+
+- **Estado:** 🟡 En progreso
+- **Inicio:** 2026-01
+
 ### ✅ Curso – Inglés A1
 📂 `apuntes-cursos/curso-inglés-a1-presente-simple/`
 
